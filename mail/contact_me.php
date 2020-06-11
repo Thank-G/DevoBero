@@ -15,7 +15,7 @@ $to = "thankgodbereonwu@gmail.com";
 
 $subject = "Website Contact Form:  $name";
 $body = "You have received a new message from your website contact form.\n\n"."Here are the details:\n\nName: $name\n\nEmail: $email\n\nPhone: $phone\n\nMessage:\n$message";
-$header = "From: noreply@thankgodbereonwu@gmail.com\n"; 
+$header = "From: noreply@treasurehall.net\n"; 
 
 $header .= "Reply-To: $email";	
 
